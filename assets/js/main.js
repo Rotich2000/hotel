@@ -107,7 +107,7 @@ const sr = ScrollReveal({
     distance: '60px',
     duration: 2500,
     delay: 400,
-    reset: true //Animation repeat
+    // reset: true //Animation repeat
 })
 
 sr.reveal('.home__img, .newsletter__container, .footer__logo, .footer__description, .footer__content, .footer__info')
